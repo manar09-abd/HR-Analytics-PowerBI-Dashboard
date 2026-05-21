@@ -130,19 +130,6 @@ Taux d'attrition =
 
 ---
 
-## 👥 Équipe
-
-| Nom | Rôle |
-|---|---|
-| **Manar Abdellaoui** | Data Analyst · Modélisation · DAX · Dashboard |
-| **Noura Youssfi** | Data Analyst · Power Query · Visualisation |
-| **Salma El Ansari** | Analyse · Interprétation · Recommandations |
-| **Amal El Ansari** | Analyse · Interprétation · Recommandations |
-
-> Encadré par **Mr. Farhaoui Youssef** — Tafilalt Business School, FP Errachidia
-
----
-
 ## 📁 Structure du repo
 
 ```
